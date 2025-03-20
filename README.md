@@ -1,4 +1,5 @@
 # AYFJsys
+![Screenshot 2025-03-20 125218](https://github.com/user-attachments/assets/e1ece8c1-3010-4089-aa57-4003f6105bfa)
 * aaayafuj (AYFJsys) is a cutting-edge ethical hacking and cybersecurity ecosystem designed to provide tools, resources, and education for ethical hackers and cybersecurity enthusiasts. The project includes a modern dark-themed web interface, featuring matrix-like animations, terminal-inspired aesthetics, and a focus on security.
 
 # Key Features:
